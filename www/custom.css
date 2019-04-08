@@ -1,0 +1,18 @@
+table {
+   width: 100%;
+   border: 1px solid #ccc;
+}
+ 
+th {
+  background-color: #F5F5F5;
+  color: #000000;
+}
+ 
+td {
+  text-align:center;       
+  background-color: #ffffff;
+}
+tr { 
+  line-height: 25px; 
+  
+}
